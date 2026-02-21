@@ -1,7 +1,7 @@
 {
   "automationId": "699872645db1a3e1d5a68ea3",
   "automationName": "Unnamed Automation",
-  "version": "v3",
+  "version": "v4",
   "mode": "multi-file",
   "dependencies": [
     {
@@ -32,5 +32,5 @@
     "GOOGLE_SHEET_ID",
     "RESUME_PDF_PATH"
   ],
-  "syncedAt": "2026-02-21T06:12:10.117Z"
+  "syncedAt": "2026-02-21T06:14:34.523Z"
 }
