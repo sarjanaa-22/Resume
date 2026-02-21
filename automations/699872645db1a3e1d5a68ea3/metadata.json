@@ -1,0 +1,36 @@
+{
+  "automationId": "699872645db1a3e1d5a68ea3",
+  "automationName": "Unnamed Automation",
+  "version": "v1",
+  "mode": "multi-file",
+  "dependencies": [
+    {
+      "id": "1771606950458_6",
+      "name": "fs",
+      "version": "latest"
+    },
+    {
+      "id": "1771606950458_7",
+      "name": "pdf-parse",
+      "version": "latest"
+    },
+    {
+      "id": "1771606950458_8",
+      "name": "google-spreadsheet",
+      "version": "latest"
+    },
+    {
+      "id": "1771606950458_9",
+      "name": "google-auth-library",
+      "version": "latest"
+    }
+  ],
+  "environmentVariables": [
+    "DEFAULT_STUDENT_EMAIL",
+    "GOOGLE_SERVICE_ACCOUNT_EMAIL",
+    "GOOGLE_PRIVATE_KEY",
+    "GOOGLE_SHEET_ID",
+    "RESUME_PDF_PATH"
+  ],
+  "syncedAt": "2026-02-21T06:07:55.780Z"
+}
